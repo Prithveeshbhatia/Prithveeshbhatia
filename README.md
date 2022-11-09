@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prithveeshbhatia
 - 👀 I’m interested in knowing what git hub is
-- 🌱 I’m currently learning how to spek about github
+- 🌱 I’m currently learning how to speak about Github
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me on my e-mail address
 
